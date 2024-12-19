@@ -1,0 +1,16 @@
+{
+  "name": "my-crypto-app",
+  "version": "1.0.0",
+  "description": "Crypto recommendation backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.3.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
